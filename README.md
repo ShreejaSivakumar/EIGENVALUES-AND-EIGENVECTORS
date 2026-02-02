@@ -42,3 +42,38 @@ REFERENCE.NUMBER : 25017561
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
+
+
+
+
+
+
+
+
+*
+**
+*
+*
+*
+**
+*
+*
+**
+*
+*
+**
+*
+
+*
+*
+**
+*
+*
+*
+*
+**
+*
+*
+*
+*
+
